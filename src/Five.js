@@ -14,10 +14,10 @@ class Five  extends Component {
                                                         return (
                                                                 <ul>
                   <li>Name: {people.name}</li>
-                  <li>Relationship: {people.presenter}</li>
-                  <li>Like/hate: {people.room}</li>
-                   <li>Favorite color: {people.color}</li>
-                  <li>Birhday info: {people.summary}</li>
+                  <li>Presenter: {people.presenter}</li>
+                  <li>Room: {people.room}</li>
+                   
+                  <li>Summary: {people.summary}</li>
                   Date: {people.date}<br></br>
                   Time: {people.time}
                 </ul>
