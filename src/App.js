@@ -52,8 +52,10 @@ const AppRouter = () => (
       <div>
             <Link to="/two/">
               <button type="button"  className="button" >
-               1a
-              </button>
+               <img src={"./IMG_1342.jpg"} />
+             </button>
+
+
 
            </Link>
       </div>
