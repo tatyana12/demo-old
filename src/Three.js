@@ -17,7 +17,7 @@ class Three  extends Component {
                   <li>Presenter: {people.presenter}</li>
                   <li>Room: {people.room}</li>
                   
-                  <li>Birthday info: {people.summary}</li>
+                  <li>Summary: {people.summary}</li>
                      Date: {people.date}<br></br>
                      Time: {people.time}
                 </ul>
