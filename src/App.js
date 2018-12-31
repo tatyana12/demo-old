@@ -52,10 +52,12 @@ const AppRouter = () => (
       <div>
             <Link to="/two/">
               <button type="button"  className="button" >
-               <img src="./public/google.png" alt="my image" onClick={this.myfunction} />>
+               <img src="./public/IMG_1342.jpg" alt="my image" onClick={this.myfunction} />
              </button>
 
-     
+          myfunction() {
+        console.log("CLICKED");
+  }
 
            </Link>
       </div>
