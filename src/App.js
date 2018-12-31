@@ -44,7 +44,7 @@ const AppRouter = () => (
       <div>
            <Link to="/one/">
               <button type="button" className="button">
-               Tatyana
+               1
               </button>
 
          </Link>
@@ -52,7 +52,7 @@ const AppRouter = () => (
       <div>
             <Link to="/two/">
               <button type="button"  className="button" >
-               1
+               1a
               </button>
 
            </Link>
