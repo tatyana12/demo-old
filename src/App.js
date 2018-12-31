@@ -35,7 +35,7 @@ const AppRouter = () => (
 
              <button type="button" className="button">
 
-             Families  information(2018)</button>
+             Events  information(2018)</button>
 
          </Link></center>
 
@@ -52,7 +52,7 @@ const AppRouter = () => (
       <div>
             <Link to="/two/">
               <button type="button"  className="button" >
-               Mikl
+               1
               </button>
 
            </Link>
@@ -60,7 +60,7 @@ const AppRouter = () => (
       <div>
             <Link to="/three/">
                 <button type="button"  className="button">
-                 Oleg
+                 2
               </button>
 
           </Link>
@@ -68,7 +68,7 @@ const AppRouter = () => (
       <div>
             <Link to="/four/">
                      <button type="button"  className="button">
-                 Antonina
+                 3
               </button>
             </Link>
       </div>
@@ -76,7 +76,7 @@ const AppRouter = () => (
       <div>
             <Link to="/five/">
                        <button type="button"  className="button">
-                       Diana
+                       4
               </button>
            </Link>
       </div>
@@ -84,7 +84,7 @@ const AppRouter = () => (
              <Link to="/six/">
 
                <button  type="button"  className="button">
-               Dennis
+               5
               </button>
 
           </Link>
@@ -93,7 +93,7 @@ const AppRouter = () => (
       <div>
             <Link to="/seven/">
              <button type="button"  className="button">
-               Maria
+               6
               </button>
 
 
@@ -103,7 +103,7 @@ const AppRouter = () => (
 
             <Link to="/eight/">
                <button type="button"  className="button">
-               Edvard
+               7
               </button>
 
 
@@ -113,7 +113,7 @@ const AppRouter = () => (
             <Link to="/nine/">
 
                  <button type="button"  className="button">
-                 Natali
+                 8
               </button>
 
 
