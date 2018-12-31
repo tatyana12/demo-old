@@ -55,9 +55,7 @@ const AppRouter = () => (
                <img src="./public/IMG_1342.jpg" alt="my image" onClick={this.myfunction} />
              </button>
 
-          myfunction() {
-        console.log("CLICKED");
-  }
+          
 
            </Link>
       </div>
