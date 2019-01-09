@@ -52,14 +52,11 @@ const AppRouter = () => (
       <div>
             <Link to="/two/">
               
-             <button type="button" style="background-color:transparent; border-color:transparent;"> 
-               <img src="./public/IMG_1342.jpg" height="35"/>
-              </button>
+             <button type="button"  className="button" >
+               <img src={"./public/IMG_1342.jpg"} />
+             </button>
 
-
-          
-
-           </Link>
+            </Link>
       </div>
       <div>
             <Link to="/three/">
