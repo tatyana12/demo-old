@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-//import  { Link } from ‘react-router-dom’;
 import './App.css';
 import data from './events.json';
 import One from "./One";
@@ -13,11 +12,8 @@ import Seven from "./Seven";
 import Eight from "./Eight";
 import Nine from "./Nine";
 import Ten from "./Ten";
-//import Index from "./Home";
 
 const Index = () => <h2></h2>;
-
-
 const AppRouter = () => (
   <Router>
     <div>
