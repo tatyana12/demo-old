@@ -61,7 +61,7 @@ const AppRouter = () => (
       <div>
             <Link to="/three/">
                 <button type="button"  className="button">
-                 2
+                 3
               </button>
 
           </Link>
@@ -69,7 +69,7 @@ const AppRouter = () => (
       <div>
             <Link to="/four/">
                      <button type="button"  className="button">
-                 3
+                 4
               </button>
             </Link>
       </div>
@@ -77,7 +77,7 @@ const AppRouter = () => (
       <div>
             <Link to="/five/">
                        <button type="button"  className="button">
-                       4
+                       5
               </button>
            </Link>
       </div>
@@ -85,7 +85,7 @@ const AppRouter = () => (
              <Link to="/six/">
 
                <button  type="button"  className="button">
-               5
+               6
               </button>
 
           </Link>
@@ -94,7 +94,7 @@ const AppRouter = () => (
       <div>
             <Link to="/seven/">
              <button type="button"  className="button">
-               6
+               7
               </button>
 
 
@@ -104,7 +104,7 @@ const AppRouter = () => (
 
             <Link to="/eight/">
                <button type="button"  className="button">
-               7
+               8
               </button>
 
 
@@ -114,7 +114,7 @@ const AppRouter = () => (
             <Link to="/nine/">
 
                  <button type="button"  className="button">
-                 8
+                 9
               </button>
 
 
