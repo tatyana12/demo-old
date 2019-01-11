@@ -9,7 +9,7 @@ class Two extends Component {
                                 {
                                         data.map(function(people) {
                                                 // assuming if you want people with
-                                                // id=1 only on page 1
+                                                // id=2 only on page 2
                                                 if (people.id === 2) {
                                                         return (
                                                                 <ul>
