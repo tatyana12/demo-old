@@ -40,11 +40,15 @@ const AppRouter = () => (
               
              <button type="button"  className="button" >
                  2
-                <img src={"/public/funnyanimal.gif"} />
+                
              </button>
 
             </Link>
       </div>
+      <div>
+             <img src={"/public/funnyanimal.gif"} />
+      </div>
+
       <div>
             <Link to="/three/">
                 <button type="button"  className="button">
