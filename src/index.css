@@ -27,8 +27,8 @@ code {
   color: red;
   cursor: pointer;
   margin: 10px;
-  width: 251px;
-  height: 200px;
+  width: 244px;
+  height: 54px;
 }
 
 .button:hover {
@@ -63,6 +63,6 @@ code {
 }
 
 .content {
-    height: 174px;
+    height: 274px;
 }
 
