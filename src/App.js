@@ -48,34 +48,26 @@ const AppRouter = () => (
       </div>
       <div>
             <Link to="/four/">
-                     <button type="button"  className="button">
-                 4
-              </button>
+                    <img src={"./funnyanimal.gif"} />
             </Link>
       </div>
 
       <div>
             <Link to="/five/">
-                       <button type="button"  className="button">
-                       5
-              </button>
+                       <img src={"./funnyanimal.gif"} />
            </Link>
       </div>
       <div>
              <Link to="/six/">
 
-               <button  type="button"  className="button">
-               6
-              </button>
+               <img src={"./funnyanimal.gif"} />
 
           </Link>
       </div>
 
       <div>
             <Link to="/seven/">
-             <button type="button"  className="button">
-               7
-              </button>
+             <img src={"./funnyanimal.gif"} />
 
 
          </Link>
@@ -83,9 +75,7 @@ const AppRouter = () => (
       <div>
 
             <Link to="/eight/">
-               <button type="button"  className="button">
-               8
-              </button>
+               <img src={"./funnyanimal.gif"} />
 
 
           </Link>
