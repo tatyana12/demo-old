@@ -46,7 +46,9 @@ const AppRouter = () => (
             </Link>
       </div>
       <div>
+             <Link to="/two/">
              <img src={"./funnyanimal.gif"} />
+             </Link>
       </div>
 
       <div>
