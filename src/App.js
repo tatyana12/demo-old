@@ -29,9 +29,7 @@ const AppRouter = () => (
      <div className="column">
       <div>
            <Link to="/one/">
-              <button type="button" className="button">
-               1
-              </button>
+              <img src={"./funnyanimal.gif"} />
 
          </Link>
       </div>
@@ -44,9 +42,7 @@ const AppRouter = () => (
 
       <div>
             <Link to="/three/">
-                <button type="button"  className="button">
-                 3
-              </button>
+                <img src={"./funnyanimal.gif"} />
 
           </Link>
       </div>
