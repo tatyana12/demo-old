@@ -73,10 +73,11 @@ const AppRouter = () => (
          </Link>
       </div>
       <div>
-
+           
             <Link to="/eight/">
+              <button type="button"  className="button">
                <img src={"./funnyanimal.gif"} />
-
+              </button>
 
           </Link>
       </div>
