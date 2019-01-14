@@ -29,7 +29,7 @@ const AppRouter = () => (
      <div className="column">
       <div>
            <Link to="/one/">
-              <img src={require('./funnyanimal.gif')} key="1"/>
+              <img src={'./funnyanimal.gif'} />
 
          </Link>
       </div>
