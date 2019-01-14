@@ -36,7 +36,8 @@ const AppRouter = () => (
       
       <div>
              <Link to="/two/">
-             <img src={require('./funnyanimal.gif')} />
+            // <img src={require('./funnyanimal.gif')} />
+            <img src={"./funnyanimal.gif"} />             
              </Link>
       </div>
 
