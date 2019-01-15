@@ -12,7 +12,7 @@ import Seven from "./Seven";
 import Eight from "./Eight";
 import Nine from "./Nine";
 import Ten from "./Ten";
-import './funnyanimal.gif' from "./public" 
+import './funnyanimal.gif' from "./public"; 
 
 const Index = () => <h2></h2>;
 const AppRouter = () => (
