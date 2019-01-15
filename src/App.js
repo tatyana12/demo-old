@@ -38,25 +38,25 @@ const AppRouter = () => (
       <div>
              <Link to="/two/">
             
-            <img src={"./funnyanimal.gif"} />             
+            <img src={"/funnyanimal.gif"} />             
              </Link>
       </div>
 
       <div>
             <Link to="/three/">
-                <img src={"./funnyanimal.gif"} />
+                <img src={"/funnyanimal.gif"} />
 
           </Link>
       </div>
       <div>
             <Link to="/four/">
-                    <img src={"./funnyanimal.gif"} />
+                    <img src={"/funnyanimal.gif"} />
             </Link>
       </div>
 
       <div>
             <Link to="/five/">
-                       <img src={"./funnyanimal.gif"} />
+                       <img src={"/funnyanimal.gif"} />
            </Link>
       </div>
       <div>
@@ -69,7 +69,7 @@ const AppRouter = () => (
 
       <div>
             <Link to="/seven/">
-             <img src={"./funnyanimal.gif"} />
+             <img src={"/funnyanimal.gif"} />
 
 
          </Link>
@@ -78,7 +78,7 @@ const AppRouter = () => (
            
             <Link to="/eight/">
               <button type="button"  className="button">
-               <img src={"./funnyanimal.gif"} />
+               <img src={"/funnyanimal.gif"} />
               </button>
 
           </Link>
